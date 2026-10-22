@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Out-Of-Core-Dataframes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Out-Of-Core-Dataframes?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Out-Of-Core-Dataframes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Out-Of-Core-Dataframes?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Out-Of-Core-Dataframes/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Out-Of-Core-Dataframes?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -82,9 +82,9 @@ The following enterprise platforms provide turnkey, managed out-of-core data pro
 
 Explore the premier open-source libraries enabling out-of-core computation, streaming processing, and memory-mapped analytics.
 
-> **Sorted by GitHub Stars (Descending)**
+> **Sorted by GitHub_Stars (Descending)**
 
-### 1. [Apache Spark (PySpark)](https://github.com/apache/spark) [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)
+### 1. [Apache Spark (PySpark)](https://github.com/apache/spark) [![GitHub_Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)
 * **GitHub Repository**: [apache/spark](https://github.com/apache/spark) • **License**: Apache-2.0 • **Core Language**: Scala / Java / Python / C++
 * 🌟 **Key Out-of-Core Capabilities**:
   - The battle-tested global standard for distributed cluster computing, processing petabytes across thousands of nodes.
@@ -94,7 +94,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 2. [Ray (Ray Data)](https://github.com/ray-project/ray) [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)
+### 2. [Ray (Ray Data)](https://github.com/ray-project/ray) [![GitHub_Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)
 * **GitHub Repository**: [ray-project/ray](https://github.com/ray-project/ray) • **License**: Apache-2.0 • **Core Language**: C++ / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Purpose-built streaming data loader and processor designed for distributed AI/ML training, batch inference, and unstructured/multimodal pipelines.
@@ -104,7 +104,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 3. [DuckDB](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
+### 3. [DuckDB](https://github.com/duckdb/duckdb) [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
 * **GitHub Repository**: [duckdb/duckdb](https://github.com/duckdb/duckdb) • **License**: MIT • **Core Language**: C++
 * 🌟 **Key Out-of-Core Capabilities**:
   - Often dubbed the *"SQLite for Analytics"*; embedded vectorized OLAP engine that runs natively inside your Python or CLI process.
@@ -115,7 +115,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 4. [Polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
+### 4. [Polars](https://github.com/pola-rs/polars) [![GitHub_Stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
 * **GitHub Repository**: [pola-rs/polars](https://github.com/pola-rs/polars) • **License**: MIT • **Core Language**: Rust / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - High-performance, Rust-native DataFrame library built from the ground up on Apache Arrow memory structures and SIMD vectorization.
@@ -126,7 +126,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 5. [Dask](https://github.com/dask/dask) [![GitHub stars](https://img.shields.io/github/stars/dask/dask?style=social&color=white)](https://github.com/dask/dask/stargazers)
+### 5. [Dask](https://github.com/dask/dask) [![GitHub_Stars](https://img.shields.io/github/stars/dask/dask?style=social&color=white)](https://github.com/dask/dask/stargazers)
 * **GitHub Repository**: [dask/dask](https://github.com/dask/dask) • **License**: BSD-3-Clause • **Core Language**: Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Scales familiar Python scientific computing primitives (`pandas.DataFrame`, `numpy.ndarray`) across multi-core CPUs and distributed clusters.
@@ -136,7 +136,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 6. [Modin](https://github.com/modin-project/modin) [![GitHub stars](https://img.shields.io/github/stars/modin-project/modin?style=social&color=white)](https://github.com/modin-project/modin/stargazers)
+### 6. [Modin](https://github.com/modin-project/modin) [![GitHub_Stars](https://img.shields.io/github/stars/modin-project/modin?style=social&color=white)](https://github.com/modin-project/modin/stargazers)
 * **GitHub Repository**: [modin-project/modin](https://github.com/modin-project/modin) • **License**: Apache-2.0 • **Core Language**: Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Drop-in pandas replacement: change a single import (`import modin.pandas as pd`) to parallelize pandas queries across all CPU cores.
@@ -146,7 +146,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 7. [NVIDIA cuDF (RAPIDS)](https://github.com/rapidsai/cudf) [![GitHub stars](https://img.shields.io/github/stars/rapidsai/cudf?style=social&color=white)](https://github.com/rapidsai/cudf/stargazers)
+### 7. [NVIDIA cuDF (RAPIDS)](https://github.com/rapidsai/cudf) [![GitHub_Stars](https://img.shields.io/github/stars/rapidsai/cudf?style=social&color=white)](https://github.com/rapidsai/cudf/stargazers)
 * **GitHub Repository**: [rapidsai/cudf](https://github.com/rapidsai/cudf) • **License**: Apache-2.0 • **Core Language**: C++ / CUDA / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - GPU-accelerated DataFrame library providing pandas-compatible APIs executed on NVIDIA tensor/CUDA cores.
@@ -156,7 +156,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 8. [Apache DataFusion](https://github.com/apache/datafusion) [![GitHub stars](https://img.shields.io/github/stars/apache/datafusion?style=social&color=white)](https://github.com/apache/datafusion/stargazers)
+### 8. [Apache DataFusion](https://github.com/apache/datafusion) [![GitHub_Stars](https://img.shields.io/github/stars/apache/datafusion?style=social&color=white)](https://github.com/apache/datafusion/stargazers)
 * **GitHub Repository**: [apache/datafusion](https://github.com/apache/datafusion) • **License**: Apache-2.0 • **Core Language**: Rust
 * 🌟 **Key Out-of-Core Capabilities**:
   - Extensible, embedded, vectorized SQL query and DataFrame engine implemented in Rust using Apache Arrow as memory format.
@@ -166,7 +166,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 9. [Vaex](https://github.com/vaexio/vaex) [![GitHub stars](https://img.shields.io/github/stars/vaexio/vaex?style=social&color=white)](https://github.com/vaexio/vaex/stargazers)
+### 9. [Vaex](https://github.com/vaexio/vaex) [![GitHub_Stars](https://img.shields.io/github/stars/vaexio/vaex?style=social&color=white)](https://github.com/vaexio/vaex/stargazers)
 * **GitHub Repository**: [vaexio/vaex](https://github.com/vaexio/vaex) • **License**: MIT • **Core Language**: C++ / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Pioneer of **zero-copy memory-mapping (`mmap`)** for tabular big data; opens billion-row HDF5 and Arrow datasets in milliseconds without memory footprint.
@@ -176,7 +176,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 10. [Ibis](https://github.com/ibis-project/ibis) [![GitHub stars](https://img.shields.io/github/stars/ibis-project/ibis?style=social&color=white)](https://github.com/ibis-project/ibis)
+### 10. [Ibis](https://github.com/ibis-project/ibis) [![GitHub_Stars](https://img.shields.io/github/stars/ibis-project/ibis?style=social&color=white)](https://github.com/ibis-project/ibis)
 * **GitHub Repository**: [ibis-project/ibis](https://github.com/ibis-project/ibis) • **License**: Apache-2.0 • **Core Language**: Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Unified, portable Python dataframe API that compiles expressions into backend-native execution across 20+ query engines.
@@ -186,7 +186,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 11. [Daft](https://github.com/Eventual-Inc/Daft) [![GitHub stars](https://img.shields.io/github/stars/Eventual-Inc/Daft?style=social&color=white)](https://github.com/Eventual-Inc/Daft/stargazers)
+### 11. [Daft](https://github.com/Eventual-Inc/Daft) [![GitHub_Stars](https://img.shields.io/github/stars/Eventual-Inc/Daft?style=social&color=white)](https://github.com/Eventual-Inc/Daft/stargazers)
 * **GitHub Repository**: [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) • **License**: Apache-2.0 • **Core Language**: Rust / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Distributed Rust-based query engine engineered explicitly for multimodal data (images, tensors, video, audio, PDFs, text) and tabular data.
@@ -196,7 +196,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 12. [H2O DataTable](https://github.com/h2oai/datatable) [![GitHub stars](https://img.shields.io/github/stars/h2oai/datatable?style=social&color=white)](https://github.com/h2oai/datatable/stargazers)
+### 12. [H2O DataTable](https://github.com/h2oai/datatable) [![GitHub_Stars](https://img.shields.io/github/stars/h2oai/datatable?style=social&color=white)](https://github.com/h2oai/datatable/stargazers)
 * **GitHub Repository**: [h2oai/datatable](https://github.com/h2oai/datatable) • **License**: MPL-2.0 • **Core Language**: C++ / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - Inspired by R's renowned `data.table`; high-speed 2D tabular manipulation in Python optimized for performance and memory economy.
@@ -206,7 +206,7 @@ Explore the premier open-source libraries enabling out-of-core computation, stre
 
 ---
 
-### 13. [FireDucks](https://github.com/fireducks-dev/fireducks) [![GitHub stars](https://img.shields.io/github/stars/fireducks-dev/fireducks?style=social&color=white)](https://github.com/fireducks-dev/fireducks/stargazers)
+### 13. [FireDucks](https://github.com/fireducks-dev/fireducks) [![GitHub_Stars](https://img.shields.io/github/stars/fireducks-dev/fireducks?style=social&color=white)](https://github.com/fireducks-dev/fireducks/stargazers)
 * **GitHub Repository**: [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks) • **License**: Custom Permissive • **Core Language**: C++ / Python
 * 🌟 **Key Out-of-Core Capabilities**:
   - JIT-compiled drop-in accelerator for pandas providing up to **20x speedup** on standard data wrangling benchmarks.
